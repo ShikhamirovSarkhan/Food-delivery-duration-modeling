@@ -28,3 +28,6 @@ Using regression algorithms like linear regression, decision tree, KNN,we built 
 
 ### Result table
 ![My Image](https://github.com/ShikhamirovSarkhan/Food-delivery-duration-modeling/blob/61445f5ef0d4ae7b864127e01d88096e384e4e7c/food_delivery.png)
+
+### Conclusion
+In conclusion, the food delivery prediction model was developed using Decision tree regressot, achieving an R2 score of 0.82. Moving forward, potential enhancements include identifying the best features, conducting additional feature engineering, and exploring other optimization techniques to further improve the model's performance and accuracy. These steps will contribute to fine-tuning the model and unlocking its full potential in predicting food delivery timings accurately.
