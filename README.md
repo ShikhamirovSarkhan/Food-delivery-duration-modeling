@@ -7,3 +7,21 @@ To develop an effective prediction model, we began by thoroughly cleaning the da
 Feature engineering was then employed to extract valuable insights from the dataset. By considering factors such as delivery person age, ratings, location coordinates, and time-related variables, we aimed to capture key variables that influence delivery time. These engineered features contributed to the model's predictive capabilities.
 
 Using regression algorithms like linear regression, decision tree, KNN,we built the predictive model. Evaluation metrics such as mean squared error (MSE) root mean squared error (RMSE), mean absolute error (MAE) and R-squared (R2) score were used to assess the model's accuracy.
+
+### Repository roadmap:
+
+1. Import libraries
+
+2. Load and understand data
+
+3. Data cleaning 
+
+4. Exploratory data analysis
+
+5. Feature engineering
+
+6. Ensemble 1: Linear regression
+
+7. Ensemble 2: KNN regression
+
+8. Ensemble 1: Decision tree regression
