@@ -24,4 +24,4 @@ Using regression algorithms like linear regression, decision tree, KNN,we built 
 
 7. Ensemble 2: KNN regression
 
-8. Ensemble 1: Decision tree regression
+8. Ensemble 3: Decision tree regression
