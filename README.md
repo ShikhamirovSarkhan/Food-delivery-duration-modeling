@@ -27,4 +27,4 @@ Using regression algorithms like linear regression, decision tree, KNN,we built 
 8. Ensemble 3: Decision tree regression
 
 ### Result table
-
+![My Image](https://github.com/ShikhamirovSarkhan/Food-delivery-duration-modeling/blob/9545cfc4372f56fed25827da05425057c278d75a/Screenshots_food_delivery.png)
