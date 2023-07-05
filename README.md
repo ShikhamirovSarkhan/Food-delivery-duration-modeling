@@ -25,3 +25,6 @@ Using regression algorithms like linear regression, decision tree, KNN,we built 
 7. Ensemble 2: KNN regression
 
 8. Ensemble 3: Decision tree regression
+
+### Results
+![Table Image](C:\Users\shikh\OneDrive\Pictures\Screenshots\Screenshots_food_delivery.png)
